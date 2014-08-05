@@ -1,4 +1,4 @@
 vkMessageHistory
 ================
 
-Script to download a complete chat history, and analyze it
+Script to download a complete chat history, and analyze it statistically.
